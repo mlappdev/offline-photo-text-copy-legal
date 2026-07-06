@@ -1,0 +1,1 @@
+# offline-photo-text-copy-legal
