@@ -5,9 +5,9 @@ Impressum / Legal Notice
 
 Angaben gemäß § 5 DDG / Information according to § 5 DDG (German Digital Services Act)
 
-Marcel Lang
-Am Krebsbach 8
-61194 Niddatal
+Marcel Lang,
+Am Krebsbach 8,
+61194 Niddatal,
 Germany
 
 E-Mail: marcel.mlappdev@gmail.com
