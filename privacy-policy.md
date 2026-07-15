@@ -1,6 +1,6 @@
 Privacy Policy – Offline Photo Text Copy
 
-Last updated: 07/06/2026
+Last updated: 07/15/2026
 
 This app ("Offline Photo Text Copy") does not collect, store, or transmit any personal data.
 
